@@ -40,7 +40,7 @@ message on those systems telling you that it will not be patched.
 In all cases make sure VMware is not running, and any background guests have
 been shutdown.
 
-The code is written in Python as it makes the Unlocker easier to run and maintain on ESXi.
+The code is written in Python as it makes the Unlocker easier to run and maintain.
 
 2. Prerequisites
 ----------------
